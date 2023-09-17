@@ -1,7 +1,31 @@
-body{
-    font-family: 'Poppins', sans-serif;
-    margin: auto;
+body {
+  font-family: "Poppins", sans-serif;
+  margin: auto;
 }
-h1{
-    font-size: 80px;
+.font80 {
+  font-size: 60px;
+}
+.font40{
+    font-size: 40px;
+}
+section {
+  display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.orco{
+    color: orange;
+}
+.half-width img{
+width: 100%;
+}
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: aliceblue;
+  font-weight: 700;
 }
