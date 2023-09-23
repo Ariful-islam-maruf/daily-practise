@@ -25,7 +25,7 @@
 }
 .link-button {
   text-decoration: none;
-  background-image: linear-gradient(orange, tomato);
+  background-image: linear-gradient( rgb(226, 67, 93), tomato);
   padding: 13px 30px;
   border-radius: 5px;
   color: aliceblue;
@@ -99,7 +99,7 @@ font-weight: 700;
 }
 .skill {
   background: #ffffff;
-  box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+  box-shadow: 10px 10px 30px grey;
   border-radius: 5px;
   padding: 30px;
 }
